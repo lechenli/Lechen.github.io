@@ -1,5 +1,5 @@
-name: 肖航课题组  Xiao Research Group
-url: https://xiaohang007.github.io/
+name: 李乐辰题组  LI Research Group
+url: https://lilechen996.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -34,7 +34,7 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 你好 Main
+  - title: 欢迎来到我的世界
     link: /
   - title: 科研项目 Research
     link: /research.html
