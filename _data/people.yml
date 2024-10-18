@@ -2,8 +2,8 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
+    display_name: "李乐辰  Lechen Li"
+    github: Lilechen996
     role: faculty
     image: /img/people/hang.jpg
     bio: 助理教授  Assistant Professor
@@ -26,13 +26,13 @@ wolverine:
 
 
     
-bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+niuma 1:
+    display_name: "牛马一号"
     role: grad
     image: /img/people/bizhu.jpg
 
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
+niuma 2:
+    display_name: "牛马二号"
     role: grad
     image: /img/people/kedeng.jpg
 
@@ -49,37 +49,37 @@ alum-a:
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
 
-chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+Destiny1 :
+    display_name: "天选打工人 [导师] Destiny [Advisor] "
     role: collab
 
 
-xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+Destiny2 :
+    display_name: "996好手"
     role: collab
 
-xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+Destiny3:
+    display_name: "核能牛马"
     role: collab
     
-liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+Destiny4:
+    display_name: "核动力驴"
     role: collab
 
-chenyan:
+Destiny5:
     display_name: "陈炎 Yan Chen"
     role: collab
     
-juzheng:
-    display_name: "宋居正 Juzheng Song"
+Destiny6:
+    display_name: "得力好手"
     role: collab
 
-yayun:
-    display_name: "张亚运 Yayun Zhang"
+Destiny7:
+    display_name: "心腹大患"
     role: collab
 
-dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+Destiny8:
+    display_name: "马楼"
     role: collab
     
 
